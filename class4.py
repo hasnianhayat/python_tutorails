@@ -39,3 +39,11 @@ list2 = ["orange", "kiwi", "melon"]
 # print("Concatenated List:", newlist)
 
 
+a = list((1, 2, 3, 'apple', 4.5))  
+print(a)
+
+b = list("hello")
+
+print(b)
+
+
