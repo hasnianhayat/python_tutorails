@@ -39,11 +39,18 @@ list2 = ["orange", "kiwi", "melon"]
 # print("Concatenated List:", newlist)
 
 
-a = list((1, 2, 3, 'apple', 4.5))  
-print(a)
+# a = list((1, 2, 3, 'apple', 4.5))  
+# print(a)
 
-b = list("hello")
+# b = list("hello")
 
-print(b)
+
+
+
+# a = [2] * 5
+# b = [0] * 7
+
+# print(a)
+# print(b)
 
 
