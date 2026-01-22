@@ -53,4 +53,35 @@ list2 = ["orange", "kiwi", "melon"]
 # print(a)
 # print(b)
 
+# list = [1,1,"hello",1.4]
+
+# list[1] = 2
+
+# print(list)
+
+# tuple = (1,2,3,3)
+# print(type(tuple))
+# print(tuple)
+
+# changetolist = list(tuple)
+# print(changetolist)
+# print(type(changetolist))
+
+# set = {1,2,3}
+# print(type(set))
+# print(set)
+
+# change = list(set)
+# print(type(change))
+# print(change)
+
+# str = "hasnain"
+
+# strtolist = list(str)
+# print(strtolist)
+
+
+
+
+
 
