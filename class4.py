@@ -86,16 +86,26 @@ list2 = ["orange", "kiwi", "melon"]
 
 # print(dublelist)
 
-list = ["a","b","c"]
+# list = ["a","b","c"]
 
 # list.append("d")
 # list.extend(["d","e","f","g"])
+# list.insert(1,"z")
+# list.remove("b")
+# list.clear()
+# list.sort()
 
 
+# print(list)
 
 
-print(list)
+# nested_list = [1, 2, [3, 4], [5, 6]]
+# print(nested_list[2] [0])        # Output: [3, 4]
 
+# list = [5, 2, 9, 1, 5, 6]
+# # list[2] = 3
 
+# print(list)
 
-
+# li = ['a', 'b', 'c', 'd', 'e'] 
+# print(li[0:3] )
