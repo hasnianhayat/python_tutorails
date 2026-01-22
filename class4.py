@@ -80,7 +80,21 @@ list2 = ["orange", "kiwi", "melon"]
 # strtolist = list(str)
 # print(strtolist)
 
+# list = [1,2]
 
+# dublelist = list * 3
+
+# print(dublelist)
+
+list = ["a","b","c"]
+
+# list.append("d")
+# list.extend(["d","e","f","g"])
+
+
+
+
+print(list)
 
 
 
