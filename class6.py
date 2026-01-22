@@ -8,13 +8,13 @@
 # print(type(dict))
 # print(dict)
 
-dic = dict(
-    name = "hasnain",
-    age = 21,
-    isStudent = True,
-    ismarried = False
+# dic = dict(
+#     name = "hasnain",
+#     age = 21,
+#     isStudent = True,
+#     ismarried = False
 
-)
+# )
 
 # print(type(dic))
 # print(dic)
@@ -27,4 +27,4 @@ dic = dict(
 
 # del dic["ismarried"]
 # print(dic.pop("isStudent"))
-print(dic.clear())
+# print(dic.clear())
