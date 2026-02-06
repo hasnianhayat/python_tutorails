@@ -41,3 +41,11 @@
 
 # while len(list) :
 #     print(list)
+
+list = [1,2,3,4,5,6,7,8,9,10]
+str = "hasnain"
+
+print(list)
+
+for i in str :
+    print( type(i))
